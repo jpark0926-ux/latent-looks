@@ -1,0 +1,6 @@
+{
+  "versionCode": 15,
+  "versionName": "1.2.0",
+  "notes": "APK 자체 업데이트 도입 · P3 색공간 변환 · 업데이트 패널 자가진단",
+  "minSdk": 26
+}

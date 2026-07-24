@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "catalogVersion": 1,
+  "catalogVersion": 2,
   "looks": [
     {
       "lookId": "fujifilm_velvia",
@@ -12,5 +12,14 @@
       "sizeBytes": 1078172,
       "notes": "RFC 재피팅 검증용 시드 (번들 v1과 동일 바이너리, 버전만 상향)"
     }
-  ]
+  ],
+  "app": {
+    "versionCode": 15,
+    "versionName": "1.2.0",
+    "apkUrl": "app/latent-v1.2.0.apk",
+    "sha256": "a02b279c7748fccb8a9846ea082f88bd20c4ab60337061988fb15496ce233ac6",
+    "sizeBytes": 15840339,
+    "notes": "APK 자체 업데이트 도입 · P3 색공간 변환 · 업데이트 패널 자가진단",
+    "minSdk": 26
+  }
 }

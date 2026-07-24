@@ -11,6 +11,11 @@ underscore>, label=<stem>, version=1, notes="".
 catalogVersion comes from server/catalog.json {"catalogVersion": N} (auto-
 incremented by 1 on each run unless --keep is passed).
 
+App self-update section: put the release APK in server/app/ plus
+server/app/app.json {"versionCode": N, "versionName": "x.y.z",
+"notes": "...", "minSdk": 26} — the latest .apk (name-sorted) is emitted
+as the top-level "app" object.
+
 Usage:
   python3 server/build_manifest.py           # bump catalogVersion, write manifest
   python3 server/build_manifest.py --keep    # keep catalogVersion
@@ -84,6 +89,32 @@ def main():
         "catalogVersion": catalog_version,
         "looks": entries,
     }
+
+    # optional app self-update section: server/app/<file>.apk + app.json
+    app_dir = os.path.join(HERE, "app")
+    app_meta_path = os.path.join(app_dir, "app.json")
+    if os.path.isdir(app_dir) and os.path.exists(app_meta_path):
+        apks = [f for f in sorted(os.listdir(app_dir)) if f.endswith(".apk")]
+        if apks:
+            apk_name = apks[-1]
+            apk_path = os.path.join(app_dir, apk_name)
+            with open(app_meta_path) as f:
+                meta = json.load(f)
+            manifest["app"] = {
+                "versionCode": int(meta["versionCode"]),
+                "versionName": meta["versionName"],
+                "apkUrl": f"app/{apk_name}",
+                "sha256": sha256(apk_path),
+                "sizeBytes": os.path.getsize(apk_path),
+                "notes": meta.get("notes", ""),
+            }
+            if "minSdk" in meta:
+                manifest["app"]["minSdk"] = int(meta["minSdk"])
+            print(f"  app v{meta['versionName']} ({meta['versionCode']}) "
+                  f"{os.path.getsize(apk_path)} bytes")
+        else:
+            print("  app.json present but no .apk in server/app/ — skipped")
+
     with open(MANIFEST, "w") as f:
         json.dump(manifest, f, indent=2, ensure_ascii=False)
         f.write("\n")
