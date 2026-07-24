@@ -1,0 +1,7 @@
+{
+  "lookId": "fujifilm_velvia",
+  "brand": "fujifilm",
+  "label": "Velvia",
+  "version": 2,
+  "notes": "RFC 재피팅 검증용 시드 (번들 v1과 동일 바이너리, 버전만 상향)"
+}
