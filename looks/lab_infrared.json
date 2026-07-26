@@ -1,0 +1,7 @@
+{
+  "lookId": "lab_infrared",
+  "brand": "latent_lab",
+  "label": "Infrared",
+  "version": 1,
+  "notes": "흑백 적외선 필름 — 밝은 피부/초록, 어두운 하늘. Halation 25~35와 함께 쓰면 IR 글로우 재현 (Latent Lab 디자인)"
+}

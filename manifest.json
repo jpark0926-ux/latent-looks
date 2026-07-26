@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "catalogVersion": 3,
+  "catalogVersion": 4,
   "looks": [
     {
       "lookId": "fujifilm_velvia",
@@ -11,6 +11,36 @@
       "sha256": "9450481b7f3ad8b4bd7f884b0273eb5c973b5d0555d36a29a8588f478cad9f87",
       "sizeBytes": 1078172,
       "notes": "RFC 재피팅 검증용 시드 (번들 v1과 동일 바이너리, 버전만 상향)"
+    },
+    {
+      "lookId": "lab_infrared",
+      "brand": "latent_lab",
+      "label": "Infrared",
+      "version": 1,
+      "cubeUrl": "looks/lab_infrared.cube",
+      "sha256": "8fc0a7335c610b465eb81a09819e4ee22bbf3fef60fd2ef5513e648196ce1207",
+      "sizeBytes": 1078165,
+      "notes": "흑백 적외선 필름 — 밝은 피부/초록, 어두운 하늘. Halation 25~35와 함께 쓰면 IR 글로우 재현 (Latent Lab 디자인)"
+    },
+    {
+      "lookId": "lab_noir",
+      "brand": "latent_lab",
+      "label": "Noir",
+      "version": 1,
+      "cubeUrl": "looks/lab_noir.cube",
+      "sha256": "cd84dc73b3c4950c6e9f42ca00e49081307e8ba0f373c8cc16a55dc0d7f0d212",
+      "sizeBytes": 1078161,
+      "notes": "필름 느와르 — 크러시드 블랙, 하드 명암 (Latent Lab 디자인)"
+    },
+    {
+      "lookId": "lab_silver",
+      "brand": "latent_lab",
+      "label": "Silver",
+      "version": 1,
+      "cubeUrl": "looks/lab_silver.cube",
+      "sha256": "ccba615d61145307f6657a6a591518b4c30a6dcf8c76eaa690b8de52c0b2f56e",
+      "sizeBytes": 1078163,
+      "notes": "실버 젤라틴 프린트 — 매트 블랙, 부드러운 미드톤 (Latent Lab 디자인)"
     },
     {
       "lookId": "lab_velvia_punch",
