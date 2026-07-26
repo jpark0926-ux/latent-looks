@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "catalogVersion": 2,
+  "catalogVersion": 3,
   "looks": [
     {
       "lookId": "fujifilm_velvia",
@@ -11,6 +11,16 @@
       "sha256": "9450481b7f3ad8b4bd7f884b0273eb5c973b5d0555d36a29a8588f478cad9f87",
       "sizeBytes": 1078172,
       "notes": "RFC 재피팅 검증용 시드 (번들 v1과 동일 바이너리, 버전만 상향)"
+    },
+    {
+      "lookId": "lab_velvia_punch",
+      "brand": "latent_lab",
+      "label": "Velvia Punch",
+      "version": 1,
+      "cubeUrl": "looks/lab_velvia_punch.cube",
+      "sha256": "a6bde14c6d4075a0d2061057537a3077f729503865c6131bdaf3ffb33829c9cd",
+      "sizeBytes": 1078182,
+      "notes": "Velvia + 채도 부스트 — 실험 룩"
     }
   ],
   "app": {
