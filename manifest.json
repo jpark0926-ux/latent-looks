@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "catalogVersion": 4,
+  "catalogVersion": 5,
   "looks": [
     {
       "lookId": "fujifilm_velvia",
@@ -54,12 +54,12 @@
     }
   ],
   "app": {
-    "versionCode": 15,
-    "versionName": "1.2.0",
-    "apkUrl": "app/latent-v1.2.0.apk",
-    "sha256": "a02b279c7748fccb8a9846ea082f88bd20c4ab60337061988fb15496ce233ac6",
-    "sizeBytes": 15840339,
-    "notes": "APK 자체 업데이트 도입 · P3 색공간 변환 · 업데이트 패널 자가진단",
+    "versionCode": 16,
+    "versionName": "1.2.1",
+    "apkUrl": "app/latent-v1.2.1.apk",
+    "sha256": "4776436b4c5e30d7c141a1f34b581b422e1e41fb2bb0db804a92f056d5684461",
+    "sizeBytes": 15840343,
+    "notes": "흑백 룩 모노 그레인 자동 적용 · 다운로드 룩 achromatic 감지 · 신규 브랜드 라벨 개선",
     "minSdk": 26
   }
 }

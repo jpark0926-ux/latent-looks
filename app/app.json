@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.2.0",
-  "notes": "APK 자체 업데이트 도입 · P3 색공간 변환 · 업데이트 패널 자가진단",
+  "versionCode": 16,
+  "versionName": "1.2.1",
+  "notes": "흑백 룩 모노 그레인 자동 적용 · 다운로드 룩 achromatic 감지 · 신규 브랜드 라벨 개선",
   "minSdk": 26
 }
