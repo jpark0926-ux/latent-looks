@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "catalogVersion": 17,
+  "catalogVersion": 19,
   "looks": [
     {
       "lookId": "fujifilm_velvia",
@@ -73,6 +73,16 @@
       "notes": "클린 네그 시그니처 (사용자 커스텀 레시피) — Classic Negative 베이스, 따뜻한 톤 + 강한 색 깊이 + 부드러운 하이라이트. Grain 60~75(크게) 추천"
     },
     {
+      "lookId": "recipe_ektar100",
+      "brand": "fuji_recipe",
+      "label": "Ektar 100",
+      "version": 1,
+      "cubeUrl": "looks/recipe_ektar100.cube",
+      "sha256": "f0509bfe2bd813da05d440f5c11414b5f2d3a9188bddea3ad731ec772b49b5b5",
+      "sizeBytes": 1078165,
+      "notes": "코닥 엑타 100 — 엽서 풍경의 초고채도. 풍경·단풍·꽃에 (인물 피부 붉게 뜰 수 있음). Grain 15, Halation 10 추천"
+    },
+    {
       "lookId": "recipe_eterna_bleach",
       "brand": "fuji_recipe",
       "label": "Eterna Cinema",
@@ -81,6 +91,16 @@
       "sha256": "e6964e39dcd7378c2def95f66a590278905bd8cb88a9c07095659b06dd26b8d7",
       "sizeBytes": 1078169,
       "notes": "Eterna Bleach Bypass 레시피 — 저채도 실버 시네마. Halation 20 + Grain 15 추천. 베이스: Eterna BB 근사치(Provia 기반)"
+    },
+    {
+      "lookId": "recipe_kodachrome2",
+      "brand": "fuji_recipe",
+      "label": "Kodachrome II",
+      "version": 1,
+      "cubeUrl": "looks/recipe_kodachrome2.cube",
+      "sha256": "9c3c21ed6fd73ec405660568a14e92a1e01c58bb4a739e890e5a184b61e8117a",
+      "sizeBytes": 1078169,
+      "notes": "코다크롬 II — 따뜻한 밀도의 슬라이드 필름. 맑은 날 거리·빨간 간판·단풍에. Grain 20, Halation 10 추천"
     },
     {
       "lookId": "recipe_kodachrome64",
@@ -93,6 +113,26 @@
       "notes": "코다크롬 64 레시피 (Classic Chrome 베이스) — 따뜻한 레드, 깊은 톤. Grain 15~20 추천"
     },
     {
+      "lookId": "recipe_kodak_gold200",
+      "brand": "fuji_recipe",
+      "label": "Kodak Gold 200",
+      "version": 1,
+      "cubeUrl": "looks/recipe_kodak_gold200.cube",
+      "sha256": "695069bf6379b282f70aa6bd3df7fe2ab15c81a1f0d1482f7318f22c0a6f99c9",
+      "sizeBytes": 1078170,
+      "notes": "코닥 골드 200 — 약국 필름의 따뜻한 추억 색. 일상·가족·오후 햇빛 만능 컷. Grain 35, Halation 15 추천"
+    },
+    {
+      "lookId": "recipe_pacific_blues",
+      "brand": "fuji_recipe",
+      "label": "Pacific Blues",
+      "version": 1,
+      "cubeUrl": "looks/recipe_pacific_blues.cube",
+      "sha256": "0e06caba6696428f95cd918e8a8a0aff6f3697c947df2159e667bf198f794a7b",
+      "sizeBytes": 1078169,
+      "notes": "퍼시픽 블루스 — 깊고 차가운 파랑. 바다·하늘·이른 아침에 (실내 인물은 피부가 차가워짐). Grain 60(크게), Halation 15 추천"
+    },
+    {
       "lookId": "recipe_portra400",
       "brand": "fuji_recipe",
       "label": "Portra 400",
@@ -101,6 +141,26 @@
       "sha256": "ce8210220c88116b8f8b075497d54b6d069cf2267d4592d755bcff97aba5a57f",
       "sizeBytes": 1078166,
       "notes": "포트라 400 레시피 — 부드러운 파스텔, 리프트된 섀도우. Grain 30~35(작게) 추천"
+    },
+    {
+      "lookId": "recipe_reala100",
+      "brand": "fuji_recipe",
+      "label": "Reala 100",
+      "version": 1,
+      "cubeUrl": "looks/recipe_reala100.cube",
+      "sha256": "d340ecfbb717ba1a4d90db8c60950b2b02225ac5c91064012d1d108e53067ebf",
+      "sizeBytes": 1078165,
+      "notes": "후지컬러 리얼라 100 — 맑고 정직한 색. 인물·기록·깨끗한 낮 사진에. Grain 20, Halation 10 추천"
+    },
+    {
+      "lookId": "recipe_reggies_portra",
+      "brand": "fuji_recipe",
+      "label": "Reggie's Portra",
+      "version": 1,
+      "cubeUrl": "looks/recipe_reggies_portra.cube",
+      "sha256": "927bf01a53bd621b179ebc3e2e228767df541cb58725f96b2b11bce7f171312f",
+      "sizeBytes": 1078171,
+      "notes": "레지의 포트라 — 부드러운 인물 파스텔. 야외 인물·가족 사진에. Grain 20, Halation 15 추천"
     },
     {
       "lookId": "recipe_superia400",
@@ -124,12 +184,12 @@
     }
   ],
   "app": {
-    "versionCode": 27,
-    "versionName": "1.5.5",
-    "apkUrl": "app/latent-v1.5.5.apk",
-    "sha256": "9ea23a3cf6340360197d7204a456af78798864bae8b494dc70c553a36f9e6fde",
-    "sizeBytes": 26077926,
-    "notes": "브랜드 선택창 리디자인 (아이덴티티 필 칩) + 아이콘 위치 감사",
+    "versionCode": 28,
+    "versionName": "1.5.6",
+    "apkUrl": "app/latent-v1.5.6.apk",
+    "sha256": "d059ba8e3da4dd9b59a5c5824b74ce156bb474c138c1497810b984a457dab02c",
+    "sizeBytes": 26077930,
+    "notes": "X100VI 시그니처 레시피 팩 가이드 추가 (Kodachrome II / Reggie's Portra / Pacific Blues / Kodak Gold 200 / Reala 100 / Ektar 100)",
     "minSdk": 26
   }
 }

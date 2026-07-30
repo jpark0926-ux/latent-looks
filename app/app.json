@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "1.5.5",
-  "notes": "브랜드 선택창 리디자인 (아이덴티티 필 칩) + 아이콘 위치 감사",
+  "versionCode": 28,
+  "versionName": "1.5.6",
+  "notes": "X100VI 시그니처 레시피 팩 가이드 추가 (Kodachrome II / Reggie's Portra / Pacific Blues / Kodak Gold 200 / Reala 100 / Ektar 100)",
   "minSdk": 26
 }
