@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "1.6.0",
-  "notes": "진짜 글래스모피즘 — 백드롭 블러 + 유리 패널 레시피",
+  "versionCode": 33,
+  "versionName": "1.7.0",
+  "notes": "디자인 리셋 — 통일된 애플 스타일 (단일 서체·라욷 아이콘·iOS 컴포넌트)",
   "minSdk": 26
 }
