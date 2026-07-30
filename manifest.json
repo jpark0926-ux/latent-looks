@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "catalogVersion": 22,
+  "catalogVersion": 23,
   "looks": [
     {
       "lookId": "fujifilm_velvia",
@@ -184,12 +184,12 @@
     }
   ],
   "app": {
-    "versionCode": 31,
-    "versionName": "1.5.9",
-    "apkUrl": "app/latent-v1.5.9.apk",
-    "sha256": "1fcef7d1ad53d795c064e95445cedf057fa4fec1c0d9d69bcdcb68391d42b243",
+    "versionCode": 32,
+    "versionName": "1.6.0",
+    "apkUrl": "app/latent-v1.6.0.apk",
+    "sha256": "6e575a1d6fa734cc339cc3e2602e6da1fc729c0c8cc03337b67997fa89a56a41",
     "sizeBytes": 26094649,
-    "notes": "브랜드 칩 선택 테두리 짤림 수정",
+    "notes": "진짜 글래스모피즘 — 백드롭 블러 + 유리 패널 레시피",
     "minSdk": 26
   }
 }
