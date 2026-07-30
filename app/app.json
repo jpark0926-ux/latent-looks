@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "1.7.2",
-  "notes": "Latent 워드마크 로고 + 닫기 버튼 통일 + 정렬 감사",
+  "versionCode": 36,
+  "versionName": "1.7.3",
+  "notes": "워드마크 확정판 + 아이콘 3종 개선 (링 글로우·도트 할로 제거·블레이드 간격)",
   "minSdk": 26
 }
