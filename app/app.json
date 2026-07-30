@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
-  "versionName": "1.5.8",
-  "notes": "프레스 물리 + 사진 분위기 틴트 + 앰비언트 모션 + 슬라이더 햅틱",
+  "versionCode": 31,
+  "versionName": "1.5.9",
+  "notes": "브랜드 칩 선택 테두리 짤림 수정",
   "minSdk": 26
 }
