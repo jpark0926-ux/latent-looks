@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "1.5.0",
-  "notes": "라이브 썸네일 룩 선택 + 사진 위 제스처 편집 + 인라인 강도 슬라이더",
+  "versionCode": 23,
+  "versionName": "1.5.1",
+  "notes": "반응속도 개선 (75ms 디바운스·버퍼 재사용) + 선택 스프링 생동감",
   "minSdk": 26
 }
