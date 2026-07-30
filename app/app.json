@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "1.7.3",
-  "notes": "워드마크 확정판 + 아이콘 3종 개선 (링 글로우·도트 할로 제거·블레이드 간격)",
+  "versionCode": 37,
+  "versionName": "1.7.4",
+  "notes": "긴급 수정 — 홈 화면 실행 복구 (LAUNCHER 필터 MainActivity 복원)",
   "minSdk": 26
 }
