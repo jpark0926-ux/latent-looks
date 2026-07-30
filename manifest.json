@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "catalogVersion": 5,
+  "catalogVersion": 6,
   "looks": [
     {
       "lookId": "fujifilm_velvia",
@@ -51,6 +51,66 @@
       "sha256": "a6bde14c6d4075a0d2061057537a3077f729503865c6131bdaf3ffb33829c9cd",
       "sizeBytes": 1078182,
       "notes": "Velvia + 채도 부스트 — 실험 룩"
+    },
+    {
+      "lookId": "recipe_cinestill800t",
+      "brand": "fuji_recipe",
+      "label": "CineStill 800T",
+      "version": 1,
+      "cubeUrl": "looks/recipe_cinestill800t.cube",
+      "sha256": "04068283454497609fd9d01986501c1e9e5bedb95c8e6f8ad4dc64277c3386bf",
+      "sizeBytes": 1078170,
+      "notes": "씨네스틸 800T 레시피 — 텅스텐 쿨 톤, 야간 무드. Halation 30~40 + Grain 45~55 추천. 베이스: Eterna 근사치(Provia 기반)"
+    },
+    {
+      "lookId": "recipe_eterna_bleach",
+      "brand": "fuji_recipe",
+      "label": "Eterna Cinema",
+      "version": 1,
+      "cubeUrl": "looks/recipe_eterna_bleach.cube",
+      "sha256": "e6964e39dcd7378c2def95f66a590278905bd8cb88a9c07095659b06dd26b8d7",
+      "sizeBytes": 1078169,
+      "notes": "Eterna Bleach Bypass 레시피 — 저채도 실버 시네마. Halation 20 + Grain 15 추천. 베이스: Eterna BB 근사치(Provia 기반)"
+    },
+    {
+      "lookId": "recipe_kodachrome64",
+      "brand": "fuji_recipe",
+      "label": "Kodachrome 64",
+      "version": 1,
+      "cubeUrl": "looks/recipe_kodachrome64.cube",
+      "sha256": "07a63ae5f07e3cf4995c7dfc9fff4c7556e01feffc842784f8f2ea7c782389a8",
+      "sizeBytes": 1078169,
+      "notes": "코다크롬 64 레시피 (Classic Chrome 베이스) — 따뜻한 레드, 깊은 톤. Grain 15~20 추천"
+    },
+    {
+      "lookId": "recipe_portra400",
+      "brand": "fuji_recipe",
+      "label": "Portra 400",
+      "version": 1,
+      "cubeUrl": "looks/recipe_portra400.cube",
+      "sha256": "ce8210220c88116b8f8b075497d54b6d069cf2267d4592d755bcff97aba5a57f",
+      "sizeBytes": 1078166,
+      "notes": "포트라 400 레시피 — 부드러운 파스텔, 리프트된 섀도우. Grain 30~35(작게) 추천"
+    },
+    {
+      "lookId": "recipe_superia400",
+      "brand": "fuji_recipe",
+      "label": "Superia 400",
+      "version": 1,
+      "cubeUrl": "looks/recipe_superia400.cube",
+      "sha256": "db5e694f592acd64c14cb2189586d3905f6790b19c29e40f764959af228c531c",
+      "sizeBytes": 1078167,
+      "notes": "후지컬러 수페리아 X-Tra 400 레시피 (Classic Negative 베이스) — 펀치한 그린/틸. Grain 30~35 추천"
+    },
+    {
+      "lookId": "recipe_trix400",
+      "brand": "fuji_recipe",
+      "label": "Tri-X 400",
+      "version": 1,
+      "cubeUrl": "looks/recipe_trix400.cube",
+      "sha256": "c18d4934aa31a13052ae1de1819a1612fa58f1cbc8abaf9ed8fbc2e321f97260",
+      "sizeBytes": 1078165,
+      "notes": "코닥 Tri-X 400 레시피 — 거친 흑백 푸시. Grain 55~70(크게) 추천. 베이스: RFC 모노 렌더 (정품 Acros 미검증)"
     }
   ],
   "app": {
