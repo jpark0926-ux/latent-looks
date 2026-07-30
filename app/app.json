@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "1.2.1",
-  "notes": "흑백 룩 모노 그레인 자동 적용 · 다운로드 룩 achromatic 감지 · 신규 브랜드 라벨 개선",
+  "versionCode": 17,
+  "versionName": "1.2.2",
+  "notes": "화이트밸런스(색온도/틴트) 조절 추가",
   "minSdk": 26
 }
