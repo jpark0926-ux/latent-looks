@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "catalogVersion": 9,
+  "catalogVersion": 10,
   "looks": [
     {
       "lookId": "fujifilm_velvia",
@@ -124,12 +124,12 @@
     }
   ],
   "app": {
-    "versionCode": 18,
-    "versionName": "1.3.0",
-    "apkUrl": "app/latent-v1.3.0.apk",
-    "sha256": "40208c784f276242c7f2a3132840b84c408f77d41dd90a7632f87bd2db69d1b2",
-    "sizeBytes": 15873169,
-    "notes": "룩 설명 카드 + 추천 이유 + 설정 가이드",
+    "versionCode": 19,
+    "versionName": "1.4.0",
+    "apkUrl": "app/latent-v1.4.0.apk",
+    "sha256": "1d97e98616b0c9231b87f2d4fb9644b00108c2c842c327b1b1bf7b8c26f93c6f",
+    "sizeBytes": 19278354,
+    "notes": "디자인 전면 개편 — 필름 현상소 테마 (서체·모션·스와치·온볼딩)",
     "minSdk": 26
   }
 }
