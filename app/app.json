@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "1.5.7",
-  "notes": "새 런처 아이콘 — Fraunces 세리프 L 마크",
+  "versionCode": 30,
+  "versionName": "1.5.8",
+  "notes": "프레스 물리 + 사진 분위기 틴트 + 앰비언트 모션 + 슬라이더 햅틱",
   "minSdk": 26
 }
