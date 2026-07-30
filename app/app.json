@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "1.7.1",
-  "notes": "새 아이콘 3종 + 인앱 아이콘 전환 (Latent Ring 기본)",
+  "versionCode": 35,
+  "versionName": "1.7.2",
+  "notes": "Latent 워드마크 로고 + 닫기 버튼 통일 + 정렬 감사",
   "minSdk": 26
 }
