@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "1.4.0",
-  "notes": "디자인 전면 개편 — 필름 현상소 테마 (서체·모션·스와치·온볼딩)",
+  "versionCode": 20,
+  "versionName": "1.4.1",
+  "notes": "모션 예산 감사 — 반복 애니메이션 제거, 저장 연출 토글, 접근성 준수",
   "minSdk": 26
 }
