@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "1.4.2",
-  "notes": "아이콘 시스템 도입 + 컴포넌트 현대화 + 텍스트 짤림/정렬 수정",
+  "versionCode": 22,
+  "versionName": "1.5.0",
+  "notes": "라이브 썸네일 룩 선택 + 사진 위 제스처 편집 + 인라인 강도 슬라이더",
   "minSdk": 26
 }
