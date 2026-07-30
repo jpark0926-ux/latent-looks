@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "1.5.2",
-  "notes": "편집 초기화 버튼 + 슬라이더 라벨 더블탭 리셋",
+  "versionCode": 25,
+  "versionName": "1.5.3",
+  "notes": "글래스 카드 디자인 — 사진이 녹아드는 그라데이션 + 히어로 스탯",
   "minSdk": 26
 }
