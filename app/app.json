@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "1.5.1",
-  "notes": "반응속도 개선 (75ms 디바운스·버퍼 재사용) + 선택 스프링 생동감",
+  "versionCode": 24,
+  "versionName": "1.5.2",
+  "notes": "편집 초기화 버튼 + 슬라이더 라벨 더블탭 리셋",
   "minSdk": 26
 }

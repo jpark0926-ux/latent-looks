@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "catalogVersion": 14,
+  "catalogVersion": 15,
   "looks": [
     {
       "lookId": "fujifilm_velvia",
@@ -124,12 +124,12 @@
     }
   ],
   "app": {
-    "versionCode": 23,
-    "versionName": "1.5.1",
-    "apkUrl": "app/latent-v1.5.1.apk",
-    "sha256": "a8175dacdf894eb9257f4a7ea9d0ce129e49b2135070890daedeae7a7750df80",
-    "sizeBytes": 26061546,
-    "notes": "반응속도 개선 (75ms 디바운스·버퍼 재사용) + 선택 스프링 생동감",
+    "versionCode": 24,
+    "versionName": "1.5.2",
+    "apkUrl": "app/latent-v1.5.2.apk",
+    "sha256": "f8e2509dca5f1b7639f45ff07fa65a5edfcabafb29e5c14d2308787fe69cb0b6",
+    "sizeBytes": 26077930,
+    "notes": "편집 초기화 버튼 + 슬라이더 라벨 더블탭 리셋",
     "minSdk": 26
   }
 }
