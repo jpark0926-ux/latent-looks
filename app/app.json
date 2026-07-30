@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "1.5.3",
-  "notes": "글래스 카드 디자인 — 사진이 녹아드는 그라데이션 + 히어로 스탯",
+  "versionCode": 27,
+  "versionName": "1.5.5",
+  "notes": "브랜드 선택창 리디자인 (아이덴티티 필 칩) + 아이콘 위치 감사",
   "minSdk": 26
 }
