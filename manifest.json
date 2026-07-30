@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "catalogVersion": 6,
+  "catalogVersion": 7,
   "looks": [
     {
       "lookId": "fujifilm_velvia",
@@ -61,6 +61,16 @@
       "sha256": "04068283454497609fd9d01986501c1e9e5bedb95c8e6f8ad4dc64277c3386bf",
       "sizeBytes": 1078170,
       "notes": "씨네스틸 800T 레시피 — 텅스텐 쿨 톤, 야간 무드. Halation 30~40 + Grain 45~55 추천. 베이스: Eterna 근사치(Provia 기반)"
+    },
+    {
+      "lookId": "recipe_classic_neg_signature",
+      "brand": "fuji_recipe",
+      "label": "Classic Neg Signature",
+      "version": 1,
+      "cubeUrl": "looks/recipe_classic_neg_signature.cube",
+      "sha256": "54b663aa7815220d5b4f7a70c6cd6d0291cdb2243d19d7eb2df77466c41a0e7a",
+      "sizeBytes": 1078177,
+      "notes": "클린 네그 시그니처 (사용자 커스텀 레시피) — Classic Negative 베이스, 따뜻한 톤 + 강한 색 깊이 + 부드러운 하이라이트. Grain 60~75(크게) 추천"
     },
     {
       "lookId": "recipe_eterna_bleach",
