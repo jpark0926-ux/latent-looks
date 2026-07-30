@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "catalogVersion": 8,
+  "catalogVersion": 9,
   "looks": [
     {
       "lookId": "fujifilm_velvia",
@@ -124,12 +124,12 @@
     }
   ],
   "app": {
-    "versionCode": 17,
-    "versionName": "1.2.2",
-    "apkUrl": "app/latent-v1.2.2.apk",
-    "sha256": "429e41e09cf3da6577f1e33de081254f79bbed611ce3b8e535728c7bdc5f8840",
-    "sizeBytes": 15856723,
-    "notes": "화이트밸런스(색온도/틴트) 조절 추가",
+    "versionCode": 18,
+    "versionName": "1.3.0",
+    "apkUrl": "app/latent-v1.3.0.apk",
+    "sha256": "40208c784f276242c7f2a3132840b84c408f77d41dd90a7632f87bd2db69d1b2",
+    "sizeBytes": 15873169,
+    "notes": "룩 설명 카드 + 추천 이유 + 설정 가이드",
     "minSdk": 26
   }
 }

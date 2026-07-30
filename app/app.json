@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "1.2.2",
-  "notes": "화이트밸런스(색온도/틴트) 조절 추가",
+  "versionCode": 18,
+  "versionName": "1.3.0",
+  "notes": "룩 설명 카드 + 추천 이유 + 설정 가이드",
   "minSdk": 26
 }
