@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "1.7.0",
-  "notes": "디자인 리셋 — 통일된 애플 스타일 (단일 서체·라욷 아이콘·iOS 컴포넌트)",
+  "versionCode": 34,
+  "versionName": "1.7.1",
+  "notes": "새 아이콘 3종 + 인앱 아이콘 전환 (Latent Ring 기본)",
   "minSdk": 26
 }

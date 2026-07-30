@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "catalogVersion": 24,
+  "catalogVersion": 25,
   "looks": [
     {
       "lookId": "fujifilm_velvia",
@@ -184,12 +184,12 @@
     }
   ],
   "app": {
-    "versionCode": 33,
-    "versionName": "1.7.0",
-    "apkUrl": "app/latent-v1.7.0.apk",
-    "sha256": "442c1fb90af760deceaa3eb2bc4a42a144ec9dd2182b399b964b9aaa5bea11be",
-    "sizeBytes": 25897180,
-    "notes": "디자인 리셋 — 통일된 애플 스타일 (단일 서체·라욷 아이콘·iOS 컴포넌트)",
+    "versionCode": 34,
+    "versionName": "1.7.1",
+    "apkUrl": "app/latent-v1.7.1.apk",
+    "sha256": "f0e3ba8301408f237dd90758c184dc2d48972f2e9e8a55a1d6eb62beead94ab4",
+    "sizeBytes": 25920379,
+    "notes": "새 아이콘 3종 + 인앱 아이콘 전환 (Latent Ring 기본)",
     "minSdk": 26
   }
 }
