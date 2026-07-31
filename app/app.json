@@ -1,6 +1,6 @@
 {
-  "versionCode": 52,
-  "versionName": "1.9.3",
-  "notes": "플루이드 슬라이더 — 글로우 그래디언트 필 + WB 컬러 트랙",
+  "versionCode": 53,
+  "versionName": "1.9.4",
+  "notes": "레이아웃 개선 — 사진 전체 표시 + 하단 도킹 패널",
   "minSdk": 26
 }
