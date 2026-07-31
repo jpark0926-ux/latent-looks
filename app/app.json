@@ -1,6 +1,6 @@
 {
-  "versionCode": 62,
-  "versionName": "1.9.13",
-  "notes": "카메라 진입 아이콘 버튼",
+  "versionCode": 63,
+  "versionName": "1.9.14",
+  "notes": "전면 카메라 전환 — 셀카 촬영",
   "minSdk": 26
 }
