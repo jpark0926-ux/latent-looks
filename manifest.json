@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "catalogVersion": 54,
+  "catalogVersion": 55,
   "looks": [
     {
       "lookId": "fujifilm_velvia",
@@ -194,12 +194,12 @@
     }
   ],
   "app": {
-    "versionCode": 61,
-    "versionName": "1.9.12",
-    "apkUrl": "app/latent-v1.9.12.apk",
-    "sha256": "06edeeab8f89ca52d9f7b72b7ba9b2dd7e8f7f347468c155dacd9f1ca4d469fc",
+    "versionCode": 62,
+    "versionName": "1.9.13",
+    "apkUrl": "app/latent-v1.9.13.apk",
+    "sha256": "f57d24451a44def8bb82cc5c7f33e8fab4148f50d69439a386c6ac071a1e4fca",
     "sizeBytes": 18209463,
-    "notes": "시작화면 리디자인 + 버전 표시 강화",
+    "notes": "카메라 진입 아이콘 버튼",
     "minSdk": 26
   }
 }

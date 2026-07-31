@@ -1,6 +1,6 @@
 {
-  "versionCode": 61,
-  "versionName": "1.9.12",
-  "notes": "시작화면 리디자인 + 버전 표시 강화",
+  "versionCode": 62,
+  "versionName": "1.9.13",
+  "notes": "카메라 진입 아이콘 버튼",
   "minSdk": 26
 }
