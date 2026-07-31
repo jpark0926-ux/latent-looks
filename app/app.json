@@ -1,6 +1,6 @@
 {
-  "versionCode": 53,
-  "versionName": "1.9.4",
-  "notes": "레이아웃 개선 — 사진 전체 표시 + 하단 도킹 패널",
+  "versionCode": 54,
+  "versionName": "1.9.5",
+  "notes": "설정창 2모드 단순화 + 시작 링 애니메이션",
   "minSdk": 26
 }
