@@ -1,6 +1,6 @@
 {
-  "versionCode": 42,
-  "versionName": "1.8.0",
-  "notes": "앱 내 촬영 — 라이브 LUT 뷰파인더로 보는 그대로 촬영",
+  "versionCode": 43,
+  "versionName": "1.8.1",
+  "notes": "카메라 안정성 강화 — 단계별 진단 로그 + 오류 안내 화면",
   "minSdk": 26
 }
