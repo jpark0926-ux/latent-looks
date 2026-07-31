@@ -1,6 +1,6 @@
 {
-  "versionCode": 48,
-  "versionName": "1.8.6",
-  "notes": "글래스모피즘 강화 — 더 진한 블러와 투명도, 엣지 라이트",
+  "versionCode": 49,
+  "versionName": "1.9.0",
+  "notes": "시작 애니메이션 + 전반 반응속도 개선",
   "minSdk": 26
 }

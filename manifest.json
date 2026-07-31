@@ -181,25 +181,15 @@
       "sha256": "c18d4934aa31a13052ae1de1819a1612fa58f1cbc8abaf9ed8fbc2e321f97260",
       "sizeBytes": 1078165,
       "notes": "코닥 Tri-X 400 레시피 — 거친 흑백 푸시. Grain 55~70(크게) 추천. 베이스: RFC 모노 렌더 (정품 Acros 미검증)"
-    },
-    {
-      "lookId": "sony_st",
-      "brand": "sony",
-      "label": "ST (Standard)",
-      "version": 1,
-      "cubeUrl": "looks/sony_st.cube",
-      "sha256": "46084998721a2b893306ec4e4e944c53004cacd9ad39ccf73dfa0e2efb69c226",
-      "sizeBytes": 1078166,
-      "notes": "Sony A7 계열 스탠다드 — 32쌍 실측 피팅, ΔE 3.8"
     }
   ],
   "app": {
-    "versionCode": 48,
-    "versionName": "1.8.6",
-    "apkUrl": "app/latent-v1.8.6.apk",
-    "sha256": "6fdc815048e784a30398f91d3c8e7f6fece4457196fa3911577b8df72e7a44a9",
-    "sizeBytes": 28018340,
-    "notes": "글래스모피즘 강화 — 더 진한 블러와 투명도, 엣지 라이트",
+    "versionCode": 49,
+    "versionName": "1.9.0",
+    "apkUrl": "app/latent-v1.9.0.apk",
+    "sha256": "e9d88a30bd7b324567380dbb6506a07984e66289e8e6f46cee1fada7a87d1e10",
+    "sizeBytes": 28034724,
+    "notes": "시작 애니메이션 + 전반 반응속도 개선",
     "minSdk": 26
   }
 }
