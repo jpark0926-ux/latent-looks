@@ -1,6 +1,6 @@
 {
-  "versionCode": 40,
-  "versionName": "1.7.6",
-  "notes": "상단 오버레이 워드마크 제거 (브랜드 모멘트 전용으로 정리)",
+  "versionCode": 41,
+  "versionName": "1.7.7",
+  "notes": "풀블리드 사진 + 플로팅 글래스 패널 — 사진과 패널이 하나의 표면처럼",
   "minSdk": 26
 }
