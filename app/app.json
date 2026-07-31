@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
+  "versionCode": 38,
   "versionName": "1.7.4",
-  "notes": "긴급 수정 — 홈 화면 실행 복구 (LAUNCHER 필터 MainActivity 복원)",
+  "notes": "긴급 수정 — 홈 화면 실행 복구 + 워드마크 렌더 크래시 수정 (에뮬레이터 검증 완료)",
   "minSdk": 26
 }
