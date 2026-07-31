@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "catalogVersion": 50,
+  "catalogVersion": 51,
   "looks": [
     {
       "lookId": "fujifilm_velvia",
@@ -194,12 +194,12 @@
     }
   ],
   "app": {
-    "versionCode": 57,
-    "versionName": "1.9.8",
-    "apkUrl": "app/latent-v1.9.8.apk",
-    "sha256": "0c5f35560d1f84bab6706045fd01d1760dc267e3a1a1188362f7bd22ac54b2b2",
+    "versionCode": 58,
+    "versionName": "1.9.9",
+    "apkUrl": "app/latent-v1.9.9.apk",
+    "sha256": "8a4a7657ab454c940303f30db762368ec465c47c801c1c61b7ae402c1e0e5161",
     "sizeBytes": 18209463,
-    "notes": "라이브 LUT 뷰파인더 부활 — 보이는 그대로 촬영",
+    "notes": "안정성 강화 — 대용량 저장 보호 + 접근성 개선",
     "minSdk": 26
   }
 }

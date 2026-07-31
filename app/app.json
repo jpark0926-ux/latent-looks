@@ -1,6 +1,6 @@
 {
-  "versionCode": 57,
-  "versionName": "1.9.8",
-  "notes": "라이브 LUT 뷰파인더 부활 — 보이는 그대로 촬영",
+  "versionCode": 58,
+  "versionName": "1.9.9",
+  "notes": "안정성 강화 — 대용량 저장 보호 + 접근성 개선",
   "minSdk": 26
 }
