@@ -1,6 +1,6 @@
 {
-  "versionCode": 46,
-  "versionName": "1.8.4",
-  "notes": "카메라 성능 개선 — 정적 장면 작업 생략 + 저해상도 분석 스트림",
+  "versionCode": 47,
+  "versionName": "1.8.5",
+  "notes": "촬영 즉시 저장 + 전체 브랜드/룩 선택",
   "minSdk": 26
 }
