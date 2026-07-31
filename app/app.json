@@ -1,6 +1,6 @@
 {
-  "versionCode": 50,
-  "versionName": "1.9.1",
-  "notes": "셔터 모먼트 — 블랙아웃 + 셔터음 + 햅틱 + 썸네일 비행",
+  "versionCode": 51,
+  "versionName": "1.9.2",
+  "notes": "세로 촬영 회전 버그 수정",
   "minSdk": 26
 }
