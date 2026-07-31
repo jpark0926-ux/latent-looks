@@ -1,6 +1,6 @@
 {
-  "versionCode": 55,
-  "versionName": "1.9.6",
-  "notes": "설정창 간격 정리 — 일정한 세로 리듬",
+  "versionCode": 56,
+  "versionName": "1.9.7",
+  "notes": "릴리스 빌드 전환 — 시작 2배 이상 빨라짐 + 부드러운 시작 애니메이션",
   "minSdk": 26
 }
