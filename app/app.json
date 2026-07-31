@@ -1,6 +1,6 @@
 {
-  "versionCode": 41,
-  "versionName": "1.7.7",
-  "notes": "풀블리드 사진 + 플로팅 글래스 패널 — 사진과 패널이 하나의 표면처럼",
+  "versionCode": 42,
+  "versionName": "1.8.0",
+  "notes": "앱 내 촬영 — 라이브 LUT 뷰파인더로 보는 그대로 촬영",
   "minSdk": 26
 }
