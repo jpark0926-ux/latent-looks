@@ -1,6 +1,6 @@
 {
-  "versionCode": 54,
-  "versionName": "1.9.5",
-  "notes": "설정창 2모드 단순화 + 시작 링 애니메이션",
+  "versionCode": 55,
+  "versionName": "1.9.6",
+  "notes": "설정창 간격 정리 — 일정한 세로 리듬",
   "minSdk": 26
 }
