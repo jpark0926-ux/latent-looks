@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "catalogVersion": 40,
+  "catalogVersion": 41,
   "looks": [
     {
       "lookId": "fujifilm_velvia",
@@ -181,6 +181,16 @@
       "sha256": "c18d4934aa31a13052ae1de1819a1612fa58f1cbc8abaf9ed8fbc2e321f97260",
       "sizeBytes": 1078165,
       "notes": "코닥 Tri-X 400 레시피 — 거친 흑백 푸시. Grain 55~70(크게) 추천. 베이스: RFC 모노 렌더 (정품 Acros 미검증)"
+    },
+    {
+      "lookId": "sony_st",
+      "brand": "sony",
+      "label": "ST (Standard)",
+      "version": 1,
+      "cubeUrl": "looks/sony_st.cube",
+      "sha256": "46084998721a2b893306ec4e4e944c53004cacd9ad39ccf73dfa0e2efb69c226",
+      "sizeBytes": 1078166,
+      "notes": "Sony A7 계열 스탠다드 — 32쌍 실측 피팅, ΔE 3.8"
     }
   ],
   "app": {
