@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "catalogVersion": 31,
+  "catalogVersion": 32,
   "looks": [
     {
       "lookId": "fujifilm_velvia",
@@ -184,12 +184,12 @@
     }
   ],
   "app": {
-    "versionCode": 39,
-    "versionName": "1.7.5",
-    "apkUrl": "app/latent-v1.7.5.apk",
-    "sha256": "6400edcc2bd1f04397472ee85a08a4442affb9e8a04cbf394f4156c3796cdcfe",
+    "versionCode": 40,
+    "versionName": "1.7.6",
+    "apkUrl": "app/latent-v1.7.6.apk",
+    "sha256": "997e289169b47bbe4615b0451a437747c366f1d617bc342b1485cdbc8795d246",
     "sizeBytes": 25924659,
-    "notes": "디자인 마감 개선 — 컨트롤 단순화 (섹션 접이식) + 카드 가독성 + 브랜드 표시 수정",
+    "notes": "상단 오버레이 워드마크 제거 (브랜드 모멘트 전용으로 정리)",
     "minSdk": 26
   }
 }
