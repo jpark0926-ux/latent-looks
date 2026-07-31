@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "catalogVersion": 52,
+  "catalogVersion": 53,
   "looks": [
     {
       "lookId": "fujifilm_velvia",
@@ -194,12 +194,12 @@
     }
   ],
   "app": {
-    "versionCode": 59,
-    "versionName": "1.9.10",
-    "apkUrl": "app/latent-v1.9.10.apk",
-    "sha256": "38874a4896379107cce7dfeeaa8168d3ac13cdea2f9014a4d110294054f644f4",
+    "versionCode": 60,
+    "versionName": "1.9.11",
+    "apkUrl": "app/latent-v1.9.11.apk",
+    "sha256": "00c22efa30a2752897cba49f8f5f68f212e2f3a6af256fa1d1f4a435166f1090",
     "sizeBytes": 18209463,
-    "notes": "성능 계측 + 그리드 뷰 정리",
+    "notes": "현상 프레임 — 필름 랩 프린트 테두리",
     "minSdk": 26
   }
 }
