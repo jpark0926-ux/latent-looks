@@ -1,6 +1,6 @@
 {
-  "versionCode": 51,
-  "versionName": "1.9.2",
-  "notes": "세로 촬영 회전 버그 수정",
+  "versionCode": 52,
+  "versionName": "1.9.3",
+  "notes": "플루이드 슬라이더 — 글로우 그래디언트 필 + WB 컬러 트랙",
   "minSdk": 26
 }
