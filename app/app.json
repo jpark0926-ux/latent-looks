@@ -1,6 +1,6 @@
 {
-  "versionCode": 49,
-  "versionName": "1.9.0",
-  "notes": "시작 애니메이션 + 전반 반응속도 개선",
+  "versionCode": 50,
+  "versionName": "1.9.1",
+  "notes": "셔터 모먼트 — 블랙아웃 + 셔터음 + 햅틱 + 썸네일 비행",
   "minSdk": 26
 }
