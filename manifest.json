@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "catalogVersion": 39,
+  "catalogVersion": 40,
   "looks": [
     {
       "lookId": "fujifilm_velvia",
@@ -184,12 +184,12 @@
     }
   ],
   "app": {
-    "versionCode": 47,
-    "versionName": "1.8.5",
-    "apkUrl": "app/latent-v1.8.5.apk",
-    "sha256": "22bf753806d10bd7b8583de18eb718527171054b7cd277b39b7925515ee176e8",
+    "versionCode": 48,
+    "versionName": "1.8.6",
+    "apkUrl": "app/latent-v1.8.6.apk",
+    "sha256": "6fdc815048e784a30398f91d3c8e7f6fece4457196fa3911577b8df72e7a44a9",
     "sizeBytes": 28018340,
-    "notes": "촬영 즉시 저장 + 전체 브랜드/룩 선택",
+    "notes": "글래스모피즘 강화 — 더 진한 블러와 투명도, 엣지 라이트",
     "minSdk": 26
   }
 }

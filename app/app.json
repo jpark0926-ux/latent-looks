@@ -1,6 +1,6 @@
 {
-  "versionCode": 47,
-  "versionName": "1.8.5",
-  "notes": "촬영 즉시 저장 + 전체 브랜드/룩 선택",
+  "versionCode": 48,
+  "versionName": "1.8.6",
+  "notes": "글래스모피즘 강화 — 더 진한 블러와 투명도, 엣지 라이트",
   "minSdk": 26
 }
