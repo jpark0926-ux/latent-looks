@@ -1,6 +1,6 @@
 {
-  "versionCode": 44,
-  "versionName": "1.8.2",
-  "notes": "카메라 검은 화면 수정 — 프레임 도착 감지 + 진단 강화",
+  "versionCode": 45,
+  "versionName": "1.8.3",
+  "notes": "카메라 뷰파인더 재작성 — 검은 화면 해결 + 룩별 라이브 미리보기",
   "minSdk": 26
 }
