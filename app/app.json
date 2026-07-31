@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
-  "versionName": "1.8.3",
-  "notes": "카메라 뷰파인더 재작성 — 검은 화면 해결 + 룩별 라이브 미리보기",
+  "versionCode": 46,
+  "versionName": "1.8.4",
+  "notes": "카메라 성능 개선 — 정적 장면 작업 생략 + 저해상도 분석 스트림",
   "minSdk": 26
 }
