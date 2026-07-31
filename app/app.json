@@ -1,6 +1,6 @@
 {
-  "versionCode": 58,
-  "versionName": "1.9.9",
-  "notes": "안정성 강화 — 대용량 저장 보호 + 접근성 개선",
+  "versionCode": 59,
+  "versionName": "1.9.10",
+  "notes": "성능 계측 + 그리드 뷰 정리",
   "minSdk": 26
 }
