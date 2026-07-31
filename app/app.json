@@ -1,6 +1,6 @@
 {
-  "versionCode": 63,
-  "versionName": "1.9.14",
-  "notes": "전면 카메라 전환 — 셀카 촬영",
+  "versionCode": 64,
+  "versionName": "1.9.15",
+  "notes": "뷰파인더 화면 비율 왜곡 수정",
   "minSdk": 26
 }
