@@ -1,6 +1,6 @@
 {
-  "versionCode": 60,
-  "versionName": "1.9.11",
-  "notes": "현상 프레임 — 필름 랩 프린트 테두리",
+  "versionCode": 61,
+  "versionName": "1.9.12",
+  "notes": "시작화면 리디자인 + 버전 표시 강화",
   "minSdk": 26
 }
