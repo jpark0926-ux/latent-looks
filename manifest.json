@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "catalogVersion": 61,
+  "catalogVersion": 62,
   "looks": [
     {
       "lookId": "fujifilm_velvia",
@@ -194,12 +194,12 @@
     }
   ],
   "app": {
-    "versionCode": 68,
-    "versionName": "1.9.19",
-    "apkUrl": "app/latent-v1.9.19.apk",
-    "sha256": "09020ab7621909671492d8dadcca2865b96a383883581d9ae2f68b687a50786e",
+    "versionCode": 69,
+    "versionName": "1.9.20",
+    "apkUrl": "app/latent-v1.9.20.apk",
+    "sha256": "b35e1572315ef0c149bf583864e1b6f1ca307e147afbfe5ed5fe80ef74449edb",
     "sizeBytes": 18204611,
-    "notes": "뷰파인더 GPU LUT 복귀 — 회전은 CPU, 색보정은 GPU (더 부드러운 화면)",
+    "notes": "뷰파인더 화면 뒤집힘 수정 (GL 위아래 반전)",
     "minSdk": 26
   }
 }

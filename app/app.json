@@ -1,6 +1,6 @@
 {
-  "versionCode": 68,
-  "versionName": "1.9.19",
-  "notes": "뷰파인더 GPU LUT 복귀 — 회전은 CPU, 색보정은 GPU (더 부드러운 화면)",
+  "versionCode": 69,
+  "versionName": "1.9.20",
+  "notes": "뷰파인더 화면 뒤집힘 수정 (GL 위아래 반전)",
   "minSdk": 26
 }
