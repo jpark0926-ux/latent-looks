@@ -1,6 +1,6 @@
 {
-  "versionCode": 66,
-  "versionName": "1.9.17",
-  "notes": "뷰파인더 왜곡 결정적 수정 + 스트림 고해상화",
+  "versionCode": 67,
+  "versionName": "1.9.18",
+  "notes": "뷰파인더 CPU 재작성 — 방향/비율 완전 해결",
   "minSdk": 26
 }
