@@ -1,6 +1,6 @@
 {
-  "versionCode": 64,
-  "versionName": "1.9.15",
-  "notes": "뷰파인더 화면 비율 왜곡 수정",
+  "versionCode": 65,
+  "versionName": "1.9.16",
+  "notes": "뷰파인더 비율 계산 강화 + 진단 로그",
   "minSdk": 26
 }
