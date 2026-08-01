@@ -1,6 +1,6 @@
 {
-  "versionCode": 67,
-  "versionName": "1.9.18",
-  "notes": "뷰파인더 CPU 재작성 — 방향/비율 완전 해결",
+  "versionCode": 68,
+  "versionName": "1.9.19",
+  "notes": "뷰파인더 GPU LUT 복귀 — 회전은 CPU, 색보정은 GPU (더 부드러운 화면)",
   "minSdk": 26
 }
