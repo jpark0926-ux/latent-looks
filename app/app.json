@@ -1,6 +1,6 @@
 {
-  "versionCode": 70,
-  "versionName": "1.9.21",
-  "notes": "앱 시작 더 빠르게 — 검정 화면 시간 단축 (등장 애니메이션 800→500ms)",
+  "versionCode": 71,
+  "versionName": "1.9.22",
+  "notes": "편집·촬영 안정성 — 원본과 미리보기 일치, 연속 렌더 충돌 방지, GL 실패 자동 전환",
   "minSdk": 26
 }
