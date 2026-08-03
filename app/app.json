@@ -1,6 +1,6 @@
 {
-  "versionCode": 69,
-  "versionName": "1.9.20",
-  "notes": "뷰파인더 화면 뒤집힘 수정 (GL 위아래 반전)",
+  "versionCode": 70,
+  "versionName": "1.9.21",
+  "notes": "앱 시작 더 빠르게 — 검정 화면 시간 단축 (등장 애니메이션 800→500ms)",
   "minSdk": 26
 }
