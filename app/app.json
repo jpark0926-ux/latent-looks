@@ -1,6 +1,6 @@
 {
-  "versionCode": 71,
-  "versionName": "1.9.22",
-  "notes": "편집·촬영 안정성 — 원본과 미리보기 일치, 연속 렌더 충돌 방지, GL 실패 자동 전환",
+  "versionCode": 72,
+  "versionName": "1.9.23",
+  "notes": "카메라 생명주기 안정성 — 백그라운드 GL 일시정지·복귀, 프레임 경고 자동 해제",
   "minSdk": 26
 }

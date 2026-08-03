@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "catalogVersion": 64,
+  "catalogVersion": 65,
   "looks": [
     {
       "lookId": "fujifilm_velvia",
@@ -194,12 +194,12 @@
     }
   ],
   "app": {
-    "versionCode": 71,
-    "versionName": "1.9.22",
-    "apkUrl": "app/latent-v1.9.22.apk",
-    "sha256": "121d99b3d4aa6c82cdc9497cc0d50f28ade66617b582eed21236e8fffa75cb93",
+    "versionCode": 72,
+    "versionName": "1.9.23",
+    "apkUrl": "app/latent-v1.9.23.apk",
+    "sha256": "03230ecd3935feba8d6cd0d15f88c5d330a3659cf4ce33e4fe111f5f47916ccf",
     "sizeBytes": 18221007,
-    "notes": "편집·촬영 안정성 — 원본과 미리보기 일치, 연속 렌더 충돌 방지, GL 실패 자동 전환",
+    "notes": "카메라 생명주기 안정성 — 백그라운드 GL 일시정지·복귀, 프레임 경고 자동 해제",
     "minSdk": 26
   }
 }
