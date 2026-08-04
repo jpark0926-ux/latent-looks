@@ -1,6 +1,6 @@
 {
-  "versionCode": 72,
-  "versionName": "1.9.23",
-  "notes": "카메라 생명주기 안정성 — 백그라운드 GL 일시정지·복귀, 프레임 경고 자동 해제",
+  "versionCode": 73,
+  "versionName": "1.9.24",
+  "notes": "카메라 미리보기 효율 개선 — 프레임 메모리 재사용, 불필요한 계산과 로그 제거",
   "minSdk": 26
 }
