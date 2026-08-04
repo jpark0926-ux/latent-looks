@@ -1,6 +1,6 @@
 {
-  "versionCode": 73,
-  "versionName": "1.9.24",
-  "notes": "카메라 미리보기 효율 개선 — 프레임 메모리 재사용, 불필요한 계산과 로그 제거",
+  "versionCode": 74,
+  "versionName": "1.9.25",
+  "notes": "라이브 뷰파인더가 부드러워졌어요 — 프레임 변환을 CPU에서 걷어냈습니다",
   "minSdk": 26
 }
