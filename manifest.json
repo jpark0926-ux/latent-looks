@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "catalogVersion": 68,
+  "catalogVersion": 69,
   "looks": [
     {
       "lookId": "fujifilm_velvia",
@@ -194,12 +194,12 @@
     }
   ],
   "app": {
-    "versionCode": 75,
-    "versionName": "1.9.26",
-    "apkUrl": "app/latent-v1.9.26.apk",
-    "sha256": "cbbc06c9ef49e84e219146643547b0dfbdecb02faf0bd6d97cae793566c67f32",
+    "versionCode": 76,
+    "versionName": "1.9.27",
+    "apkUrl": "app/latent-v1.9.27.apk",
+    "sha256": "6db6755915c244110082f90530dcffeef898e9d42c211e23ca48af0841024827",
     "sizeBytes": 18221007,
-    "notes": "셀카 좌우 반전 수정 — 전면 전환 시 미리보기와 저장본이 이제 일치합니다",
+    "notes": "셀카 미러 일관성 완성 — 일반 미리보기에서도 화면과 저장본이 같습니다",
     "minSdk": 26
   }
 }

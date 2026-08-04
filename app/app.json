@@ -1,6 +1,6 @@
 {
-  "versionCode": 75,
-  "versionName": "1.9.26",
-  "notes": "셀카 좌우 반전 수정 — 전면 전환 시 미리보기와 저장본이 이제 일치합니다",
+  "versionCode": 76,
+  "versionName": "1.9.27",
+  "notes": "셀카 미러 일관성 완성 — 일반 미리보기에서도 화면과 저장본이 같습니다",
   "minSdk": 26
 }
