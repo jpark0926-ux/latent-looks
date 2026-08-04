@@ -1,6 +1,6 @@
 {
-  "versionCode": 74,
-  "versionName": "1.9.25",
-  "notes": "라이브 뷰파인더가 부드러워졌어요 — 프레임 변환을 CPU에서 걷어냈습니다",
+  "versionCode": 75,
+  "versionName": "1.9.26",
+  "notes": "셀카 좌우 반전 수정 — 전면 전환 시 미리보기와 저장본이 이제 일치합니다",
   "minSdk": 26
 }
