@@ -194,12 +194,12 @@
     }
   ],
   "app": {
-    "versionCode": 79,
-    "versionName": "1.10.1",
-    "apkUrl": "app/latent-v1.10.1.apk",
-    "sha256": "6db6755915c244110082f90530dcffeef898e9d42c211e23ca48af0841024827",
-    "sizeBytes": 18221007,
-    "notes": "폴드 펼침 화면 배치 변경 — 설정 패널이 왼쪽, 사진이 오른쪽으로 옵니다",
+    "versionCode": 77,
+    "versionName": "1.9.28",
+    "apkUrl": "app/latent-v1.9.28.apk",
+    "sha256": "9e2727ff94c2fbf220360a62a1cd12190971a9aedf95762a879661e234cd0815",
+    "sizeBytes": 18237391,
+    "notes": "온보딩 장 넘김 개선 — 종이 곡률과 뒷면, 접촉 그림자로 책장을 넘기는 감각을 강화했습니다",
     "minSdk": 26
   }
 }
