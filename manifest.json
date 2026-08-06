@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "catalogVersion": 72,
+  "catalogVersion": 73,
   "looks": [
     {
       "lookId": "fujifilm_velvia",
@@ -194,12 +194,12 @@
     }
   ],
   "app": {
-    "versionCode": 78,
-    "versionName": "1.10.0",
-    "apkUrl": "app/latent-v1.10.0.apk",
+    "versionCode": 79,
+    "versionName": "1.10.1",
+    "apkUrl": "app/latent-v1.10.1.apk",
     "sha256": "6db6755915c244110082f90530dcffeef898e9d42c211e23ca48af0841024827",
     "sizeBytes": 18221007,
-    "notes": "갤럭시 Z 폴드 대응 — 펼친 화면에서 컨트롤이 우측 레일로 배치되고, 접었다 펴도 사진과 편집값이 유지됩니다",
+    "notes": "폴드 펼침 화면 배치 변경 — 설정 패널이 왼쪽, 사진이 오른쪽으로 옵니다",
     "minSdk": 26
   }
 }
