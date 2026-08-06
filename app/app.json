@@ -1,6 +1,6 @@
 {
-  "versionCode": 77,
-  "versionName": "1.9.28",
-  "notes": "온보딩 장 넘김 개선 — 종이 곡률과 뒷면, 접촉 그림자로 책장을 넘기는 감각을 강화했습니다",
+  "versionCode": 80,
+  "versionName": "1.10.2",
+  "notes": "폴더블 펼침 화면의 왼쪽 레일과 OTA 설치 무결성을 바로잡았습니다",
   "minSdk": 26
 }
